@@ -1,5 +1,5 @@
-var minute=1
-var second=20
+var minute=25
+var second=0
 var flag=0
 var counter;
 
